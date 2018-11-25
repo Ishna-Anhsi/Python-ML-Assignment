@@ -1,6 +1,6 @@
-# Project Title
+# Simple Pokemon Image Classifier using CNN
 
-Simple Pokemon Image Classifier using CNN
+
 
 ## Getting Started
 
